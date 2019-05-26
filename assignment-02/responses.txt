@@ -1,1 +1,4 @@
-
+One way data travels through the internet is badwidth. Which is being able to send bits of data by light through a copper cable. Depending on the bounce angle you can send multiple bits all at once and they will not clash. All data is travelling at the same speed. Too get more data to pass through it, it needs to be wider. This is usually measaured in seconds. Data is able to go from the source to the requested device within second depending on bandwidth.
+The relationship between an IP adress and a DNS is ip is internet protocol and DNA associates names with corresponding adress. The device uses the DNS to get a computers IP address to get you to the destination you want to go to on the interent when using .org or .com
+A cookie is a way a website is able to remember who you are. It is basically an id card or number to indentify you as a specific person. Thi allows Your web browser to know whos who and who is accessing the website.
+The three basic parts of a URL is the protocol, domain name, and path. 
